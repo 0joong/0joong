@@ -33,4 +33,5 @@
 <ul style="list-style: none; padding: 0;">
     <li><a href="https://github.com/0joong/polyHub">프로젝트 1 - 학과 홈페이지</a></li>
     <li><a href="https://github.com/0joong/PCshop_JSP/tree/master">프로젝트 2 - 컴퓨터 판매 웹 사이트</a></li>
+    <li><a href="https://github.com/0joong/gpuSentimentAnalysis">프로젝트 3 - GPU 여론 분석</a></li>
 </ul>
